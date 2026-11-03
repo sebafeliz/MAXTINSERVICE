@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-maxtin-red: #D9232A;
+  --color-maxtin-red-hover: #B91C1C;
+  --color-maxtin-red-dark: #991B1B;
+  --color-maxtin-red-light: #F87171;
+  --color-maxtin-red-subtle: rgba(217, 35, 42, 0.12);
+  --color-maxtin-gold: #D97706;
+  --color-maxtin-gold-light: #FBBF24;
+  --color-maxtin-navy: #0A1120;
+  --color-maxtin-navy-card: #0F172A;
+  --color-maxtin-navy-border: #1E293B;
+  --color-maxtin-steel: #64748B;
+  --color-maxtin-silver: #94A3B8;
+  --color-maxtin-gray-bg: #F8FAFC;
+}
+
+@layer base {
+  body {
+    background-color: #FFFFFF;
+    color: #0F172A;
+  }
+}

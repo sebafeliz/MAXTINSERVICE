@@ -1,0 +1,6 @@
+{
+  "name": "MAXTIN SERVICE - Soluciones Mineras e Industriales",
+  "description": "Socio estratégico para suministros críticos, mantenimiento de flotas, capacitación técnica y certificación minera de personas y equipos en faena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
